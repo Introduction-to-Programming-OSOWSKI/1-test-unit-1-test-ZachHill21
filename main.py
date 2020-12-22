@@ -3,7 +3,7 @@ def name():
 print (name())
 
 def favorites():
-    return ("blue", 5)
+    return ("red", 42)
 print (favorites())
 
 def bigAdd(x, y, z, a, b):
