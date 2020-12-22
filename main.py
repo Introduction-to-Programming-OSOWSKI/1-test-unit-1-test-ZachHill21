@@ -12,4 +12,4 @@ print (bigAdd(2, 2, 2, 2, 2))
 
 def fourOperations(x, y, z, a, b):
     return (x+y-z*a-b)
-print (fourOperations(2,2,2,2,2))
+print (fourOperations(2,5,1,9,5))
