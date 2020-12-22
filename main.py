@@ -2,8 +2,8 @@ def name():
     return ("Scrooge")
 print (name())
 
-def favorites(favColor, favNumber):
-    return ("Your favorite color is"" " + favColor + " ""and your favorite number is"" " + favNumber)
+def favorites(favColor, favNum):
+    return ("Your favorite color is"" " + favColor + " ""and your favorite number is"" " + favNum)
 print (favorites("red", "5"))
 
 def bigAdd(x, y, z, a, b):
